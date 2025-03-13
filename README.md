@@ -1,5 +1,5 @@
 
-# [Midterm Lab Task 2](https://github.com/Dtx-byte/EDM-Portfolio/blob/main/Midterm%20Task%202/Query.xlsx)
+# [Midterm Lab Task 2]
 This portfolio demonstrates the process of data cleaning and preparation using Power Query. The dataset consists of multiple related tables, where cleaning techniques are applied to improve data quality and consistency before analysis.
 
 ## Step-by-Step Process
